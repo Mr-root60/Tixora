@@ -1,0 +1,4 @@
+DATABASE_URL+postgresql+psycopg2://postgres:booking%40event@localhost:5432/event_booking
+SECRET_KEY=BookingEvent
+ACCESS_TOKEN_EXPIRE_MINUTES=60
+ADMIN_EMAIL=adminevent@gmail.com

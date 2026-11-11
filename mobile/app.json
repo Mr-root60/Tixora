@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "EventBooking",
+    "slug": "event-booking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
